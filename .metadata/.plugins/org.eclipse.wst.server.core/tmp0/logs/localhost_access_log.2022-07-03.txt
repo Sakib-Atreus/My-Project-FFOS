@@ -1,0 +1,3 @@
+127.0.0.1 - - [03/Jul/2022:22:37:05 +0600] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [03/Jul/2022:22:37:07 +0600] "GET /Frozen_Food_Ordering_System/signup.jsp HTTP/1.1" 200 1436
+0:0:0:0:0:0:0:1 - - [03/Jul/2022:22:37:07 +0600] "GET /Frozen_Food_Ordering_System/css/signup-style.css HTTP/1.1" 304 -

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/sakib/Desktop/Sakib-07/Programming/Java/Basic/Food Ordering System/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+408162647.index
+2481647772.index
+4139127217.index
+628852763.index
+2112800934.index
+2480824523.index
+2513007439.index
